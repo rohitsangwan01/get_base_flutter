@@ -1,7 +1,7 @@
 # Getbase
 
-Flutter Package For GetBase backend ,
-Getbase is a SelfHost Nodejs backend with MongoDB
+Flutter Package For Getbase backend ,
+Getbase is a Self host Nodejs backend with MongoDB
 
 Getbase Github Repo
 https://github.com/rohitsangwan01/get_base
@@ -11,8 +11,10 @@ https://github.com/rohitsangwan01/get_base
 Installation 
 Install the library from pub:
 
+```dart
 dependencies:
   getbase: <latest-version>
+```  
   
 
 
