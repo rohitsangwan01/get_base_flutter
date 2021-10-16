@@ -1,6 +1,6 @@
 name: getbase
 description: GetBase Flutter Plugin to Connect With GetBase
-version: 0.0.1
+version: 0.0.2
 repository:https://github.com/rohitsangwan01/get_base_flutter
 
 environment:
