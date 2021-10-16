@@ -8,7 +8,6 @@ https://github.com/rohitsangwan01/get_base
 
 ## Getting Started
 
-Installation 
 Install the library from pub:
 
 ```dart
